@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+
+
+   
+<title>
+niksuks@coding
+</title>
+
+<html>
+    
+    
+    <head>
+       
+        <link rel="stylesheet" href="nikisbadatcoding.css">
+    
+    </head>
+    
+    <body class= back>
+        <header>
+        <div class="flex-container">
+                
+          
+  <div><a class="panda" href=https://wwf.ca><img border="0" src=panda.gif width="200" height="160"></a> </div>
+  <div><img src=niklogo.png width="150" height="130"></div>
+  <div class="donate"> <a href=https://wwf.ca/donate><img border="0" src="donate.png" width="200" height="70"></a></div>  
+</div>
+       
+       
+   
+   
+            </header>
+      <div class="content">
+             
+    <h1 class=header>
+        World Wildlife Fund "WWF"
+    </h1>
+        <div>
+        <h2 class=nik>
+        Qui sont ils?
+        </h2>
+        
+        <p class = p>
+        World Wildlife Fund (WWF) est une organisation non gouvernementale qui travaille à protéger les animaux et la nature.<br />
+            Le fondation a été créé en 1967 et maintenant ils opèrent sur plus de 100 pays a travers le monde.<br />
+            World Wildlife Fund aussi travaille pour et avec la nature.<br />
+        </p>
+            </div>
+           </div>
+          <div class="beaver">
+            
+            <h2 class=nik>
+        Quel est leur but?
+        </h2>
+             
+   
+        
+        <p class = p>
+        Le but de WWF est de renverser le déclin des espèces et atténuer la crise climatique.<br />
+            La mission du WWF est de protéger les espaces naturels et d’aider les espèces qui y habitent.<br />
+            Par exemple WWF-CANADA protège les bélugas en saint laurent et les ours polaires en manitoba.<br />
+</p>
+             
+              </div>
+          
+          
+              <div class: nikk><img border="0" src="beaver.jpg" heigt= "800px" width="1900"></div>
+        
+        <div class= "ikg" ></div>
+        
+        
+        <div class: nikk><img border="0" src="ocean3.png" heigt= "200px" width="1900"></div>
+                  
+
+             
+          <div>
+        <h2 class=nik>
+        Décrivez comment ont-ils déjà aidé (où, quand, qui, pourquoi, comment)
+        </h2>
+             
+   
+        
+        <p class = p>
+        Les gens a "WWF" on deja aider au Canada.Ils ont completé le première évaluation nationale du santé des écosystems d'eau douce.<br/>
+            </p>
+        </div>
+            
+            
+
+        
+        <h2 class=nik>
+        
+        </h2>
+        
+    <Footer></Footer>
+    </body>
+</html>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</html>

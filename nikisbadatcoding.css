@@ -1,0 +1,106 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.nik{
+    text-align: center;
+    color:darkorange;
+    font-family: Arial;
+    margin: 0, 30px;
+        
+}
+
+
+.oof {
+  display: flex;
+  justify-content: space-around;
+    background-color: lightgrey;
+    height: 100px
+  
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+    background-color: black;
+    height: 120px;
+    align-items: center;
+  
+}
+
+.flex-container div{
+  margin: auto;
+  text-align: center;
+ 
+  font-size: 30px;
+  
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    align-items: center;
+}
+.content div{
+    margin: 30px;
+}
+.beaver{
+    background-color: lightgrey
+}
+.p{
+    text-align: center;
+    font-family: Arial;
+    color:black
+}
+
+.header {
+     text-align: center;
+    color:yellow;
+    font-family: monospace;
+    font-size: 400%;
+    margin-top: 30px;
+        
+}
+ 
+.back{
+  background-color: dimgrey;
+
+}
+
+.donate{
+    display: inline;
+    
+    margin-top: 30px;
+    margin-right: 30px;
+    
+     
+}
+
+.noob {
+     text-align: center;
+    color:saddlebrown;
+    font-family: monospace;
+    font-size: 600%
+}
+
+.separator {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+   vertical-align: middle;
+}
+
+.nikk{
+    margin:0px
+}
+
+.ikg{
+    background-color: lightgrey;
+        height: 100px;
+}
